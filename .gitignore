@@ -1,5 +1,5 @@
 ./.idea/*
-./news-agregator.iml
+base-multi-screen-tg-bot.iml
 ./target/*
 # Compiled class file
 *.class
