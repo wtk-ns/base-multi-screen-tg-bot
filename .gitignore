@@ -1,3 +1,6 @@
+./.idea/*
+./news-agregator.iml
+./target/*
 # Compiled class file
 *.class
 
